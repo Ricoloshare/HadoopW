@@ -1,0 +1,576 @@
+{
+    "годы активности": "1985 - 2021",
+    "дата рождения": "11.11.1974 (Скорпион)",
+    "место рождения": "Голливуд, Лос-Анджелес, Калифорния, США",
+    "рост": "183 см",
+    "псевдонимы": "Леонардо Вильгельм ДиКаприо",
+    "ссылки": "IMDb",
+    "работает": [{
+        "id": 1,
+        "title": "Убийцы цветочной луны",
+        "original name": "Killers of the Flower Moon",
+        "year": "2021, вестерн, детектив, драма, исторический, триллер"
+    }, {
+        "id": 2,
+        "title": "Не смотри вверх",
+        "original name": "Don't look up",
+        "year": "2021, комедия"
+    }, {
+        "id": 3,
+        "title": "Наследие секретности",
+        "original name": "Legacy of Secrecy",
+        "year": "2021, драма"
+    }, {
+        "id": 4,
+        "title": "Рузвельт",
+        "original name": "Roosevelt",
+        "year": "2020, биографический, драма, исторический"
+    }, {
+        "id": 5,
+        "title": "Дьявол в белом городе",
+        "original name": "The Devil in the White City (TV Series)",
+        "year": "2020, драма, исторический, триллер"
+    }, {
+        "id": 6,
+        "title": "Однажды… в Голливуде",
+        "original name": "Once Upon a Time… in Hollywood",
+        "year": "2019, драма, комедия"
+    }, {
+        "id": 7,
+        "title": "Черная рука",
+        "original name": "The Black Hand",
+        "year": "2017, драма"
+    }, {
+        "id": 8,
+        "title": "До потопа",
+        "original name": "Before the Flood",
+        "year": "2016, документальный"
+    }, {
+        "id": 9,
+        "title": "88-я церемония вручения премии «Оскар»",
+        "original name": "The Oscars",
+        "year": "2016, комедия, музыка"
+    }, {
+        "id": 10,
+        "title": "Выживший",
+        "original name": "The Revenant",
+        "year": "2015, боевик, вестерн, драма, исторический, приключения",
+        "extra": "боевик, приключения, драма, 2 ч 36 мин",
+        "director": " США, Гонконг, Тайвань •  Алехандро Гонсалес Иньярриту  Алехандро Гонсалес Иньярриту"
+    }, {
+        "id": 11,
+        "title": "Волк с Уолл-Стрит",
+        "original name": "The Wolf of Wall Street",
+        "year": "2013, биографический, драма, триллер"
+    }, {
+        "id": 12,
+        "title": "Великий Гэтсби",
+        "original name": "The Great Gatsby",
+        "year": "2013, драма, мелодрама",
+        "extra": "драма, мелодрама, 2 ч 23 мин",
+        "director": " США, Австралия •  Баз Лурман  Баз Лурман"
+    }, {
+        "id": 13,
+        "title": "70-я церемония вручения премии «Золотой глобус»",
+        "original name": "70th Golden Globe Awards",
+        "year": "2013, новости, реалити-шоу, ток-шоу"
+    }, {
+        "id": 14,
+        "title": "Джанго освобожденный",
+        "original name": "Django Unchained",
+        "year": "2012, вестерн, драма",
+        "extra": "вестерн, драма, приключения, 2 ч 45 мин",
+        "director": " США •  Квентин Тарантино  Квентин Тарантино"
+    }, {
+        "id": 15,
+        "title": "69-я церемония вручения премии «Золотой глобус» ",
+        "original name": "The 69th Annual Golden Globe Awards",
+        "year": "2012, новости"
+    }, {
+        "id": 16,
+        "title": "Дж. Эдгар",
+        "original name": "J. Edgar",
+        "year": "2011, биографический, драма, триллер",
+        "extra": "биография, драма, мелодрама, 2 ч 17 мин",
+        "director": " США •  Клинт Иствуд  Клинт Иствуд"
+    }, {
+        "id": 17,
+        "title": "Любовь, которую мы несём",
+        "original name": "The Love We Make",
+        "year": "2011, документальный"
+    }, {
+        "id": 18,
+        "title": "Охладите! Глобальное потепление",
+        "original name": "Cool It",
+        "year": "2010, документальный"
+    }, {
+        "id": 19,
+        "title": "Начало",
+        "original name": "Inception",
+        "year": "2010, боевик, детектив, триллер, фантастика",
+        "extra": "фантастика, боевик, триллер, 2 ч 28 мин",
+        "director": " США, Великобритания •  Кристофер Нолан  Кристофер Нолан"
+    }, {
+        "id": 20,
+        "title": "Выбор парней",
+        "original name": "Guys Choice",
+        "year": "2010"
+    }, {
+        "id": 21,
+        "title": "Остров проклятых",
+        "original name": "Shutter Island",
+        "year": "2010, детектив, триллер",
+        "extra": "детектив, триллер, 2 ч 18 мин",
+        "director": " США •  Мартин Скорсезе  Мартин Скорсезе"
+    }, {
+        "id": 22,
+        "title": "67-я церемония вручения премии «Золотой глобус»",
+        "original name": "The 67th Annual Golden Globe Awards",
+        "year": "2010, комедия, музыка, новости"
+    }, {
+        "id": 23,
+        "title": "Церемония вручения премии Nickelodeon Kids' Choice Awards 2009",
+        "original name": "Nickelodeon Kids' Choice Awards 2009",
+        "year": "Церемония вручения премии 2009, семейный"
+    }, {
+        "id": 24,
+        "title": "66-я церемония вручения премии «Золотой глобус»",
+        "original name": "The 66th Annual Golden Globe Awards",
+        "year": "2009, новости"
+    }, {
+        "id": 25,
+        "title": "Дорога перемен",
+        "original name": "Revolutionary Road",
+        "year": "2008, драма, мелодрама",
+        "extra": "драма, мелодрама, 1 ч 59 мин",
+        "director": " США, Великобритания •  Сэм Мендес  Сэм Мендес"
+    }, {
+        "id": 26,
+        "title": "Совокупность лжи",
+        "original name": "Body of Lies",
+        "year": "2008, боевик, драма, триллер",
+        "extra": "боевик, драма, триллер, 2 ч 8 мин",
+        "director": " США, Великобритания •  Ридли Скотт  Ридли Скотт"
+    }, {
+        "id": 27,
+        "title": "Все хорошо",
+        "original name": "Everything's Cool",
+        "year": "2007, документальный"
+    }, {
+        "id": 28,
+        "title": "Одиннадцатый час",
+        "original name": "The 11th Hour",
+        "year": "2007, документальный"
+    }, {
+        "id": 29,
+        "title": "79-я церемония вручения премии «Оскар»",
+        "original name": "The 79th Annual Academy Awards",
+        "year": "2007, новости"
+    }, {
+        "id": 30,
+        "title": "13-я церемония вручения премии Гильдии киноактеров",
+        "original name": "13th Annual Screen Actors Guild Awards",
+        "year": "2007"
+    }, {
+        "id": 31,
+        "title": "Кровавый алмаз",
+        "original name": "Blood Diamond",
+        "year": "2006, драма, приключения, триллер",
+        "extra": "приключения, драма, триллер, 2 ч 23 мин",
+        "director": " США, Германия •  Эдвард Цвик  Эдвард Цвик"
+    }, {
+        "id": 32,
+        "title": "Отступники",
+        "original name": "The Departed",
+        "year": "2006, драма, триллер",
+        "extra": "криминал, драма, триллер, 2 ч 31 мин",
+        "director": " США, Гонконг •  Мартин Скорсезе  Мартин Скорсезе"
+    }, {
+        "id": 33,
+        "title": "100 знаменитостей по версии Форбс: Кто сделал банк?",
+        "original name": "Forbes Celebrity 100: Who Made Bank?",
+        "year": "2006, биографический"
+    }, {
+        "id": 34,
+        "title": "Бомбы и блокбастеры Тинсельтауна",
+        "original name": "Boffo! Tinseltown's Bombs and Blockbusters",
+        "year": "2006, документальный"
+    }, {
+        "id": 35,
+        "title": "12-я церемония вручения премии Гильдии киноактеров",
+        "original name": "12th Annual Screen Actors Guild Awards",
+        "year": "2006, ток-шоу"
+    }, {
+        "id": 36,
+        "title": "63-я церемония вручения премии «Золотой глобус» ",
+        "original name": "The 63rd Annual Golden Globe Awards",
+        "year": "2006"
+    }, {
+        "id": 37,
+        "title": "Земля Америке",
+        "original name": "Earth to America",
+        "year": "2005, комедия"
+    }, {
+        "id": 38,
+        "title": "20 к 1 (сериал)",
+        "original name": "20 to 1",
+        "year": "2005, документальный"
+    }, {
+        "id": 39,
+        "title": "77-я церемония вручения премии «Оскар»",
+        "original name": "The 77th Annual Academy Awards",
+        "year": "2005, музыка"
+    }, {
+        "id": 40,
+        "title": "62-я церемония вручения премии «Золотой глобус» ",
+        "original name": "The 62nd Annual Golden Globe Awards",
+        "year": "2005"
+    }, {
+        "id": 41,
+        "title": "Помощь пострадавшим от цунами: Концерт надежды (ТВ)",
+        "original name": "Tsunami Aid: A Concert of Hope",
+        "year": "2005, музыка"
+    }, {
+        "id": 42,
+        "title": "Авиатор",
+        "original name": "The Aviator",
+        "year": "2004, биографический, драма",
+        "extra": "биография, драма, 2 ч 43 мин",
+        "director": " США, Германия •  Мартин Скорсезе  Мартин Скорсезе"
+    }, {
+        "id": 43,
+        "title": "61-я церемония вручения премии «Золотой глобус» ",
+        "original name": "The 61st Annual Golden Globe Awards",
+        "year": "2004, новости"
+    }, {
+        "id": 44,
+        "title": "VH1: Полный доступ (сериал)",
+        "original name": "VH1: All Access",
+        "year": "2003, музыка"
+    }, {
+        "id": 45,
+        "title": "60-я церемония вручения премии «Золотой глобус» ",
+        "original name": "The 60th Annual Golden Globe Awards",
+        "year": "2003, семейный"
+    }, {
+        "id": 46,
+        "title": "Поймай меня, если сможешь",
+        "original name": "Catch Me If You Can",
+        "year": "2002, биографический, драма, триллер",
+        "extra": "биография, криминал, драма, 2 ч 21 мин",
+        "director": " США, Канада •  Стивен Спилберг  Стивен Спилберг"
+    }, {
+        "id": 47,
+        "title": "Банды Нью-Йорка",
+        "original name": "Gangs of New York",
+        "year": "2002, драма, триллер",
+        "extra": "криминал, драма, 2 ч 47 мин",
+        "director": " США •  Мартин Скорсезе  Мартин Скорсезе"
+    }, {
+        "id": 48,
+        "title": "Все любят тебя, Канны!",
+        "original name": "All the Love You Cannes!",
+        "year": "2002, документальный, комедия"
+    }, {
+        "id": 49,
+        "title": "Playboy: Внутри дворца «Плейбой»",
+        "original name": "Playboy: Inside the Playboy Mansion",
+        "year": "2002, документальный"
+    }, {
+        "id": 50,
+        "title": "Концерт для города Нью-Йорка",
+        "original name": "The Concert for New York City",
+        "year": "2001, документальный, музыка"
+    }, {
+        "id": 51,
+        "title": "Кафе «Донс Плам»",
+        "original name": "Don's Plum",
+        "year": "2001, драма, комедия"
+    }, {
+        "id": 52,
+        "title": "Двадцатый век Фокс: Годы блокбастеров",
+        "original name": "Twentieth Century Fox: The Blockbuster Years",
+        "year": "2000, документальный"
+    }, {
+        "id": 53,
+        "title": "Пляж",
+        "original name": "The Beach",
+        "year": "2000, драма, приключения, триллер",
+        "extra": "приключения, драма, мелодрама, 1 ч 59 мин",
+        "director": " США, Великобритания •  Дэнни Бойл  Дэнни Бойл"
+    }, {
+        "id": 54,
+        "title": "Знаменитость",
+        "original name": "Celebrity",
+        "year": "1998, драма, комедия",
+        "extra": "комедия, драма, 1 ч 53 мин",
+        "director": " США •  Вуди Аллен  Вуди Аллен"
+    }, {
+        "id": 55,
+        "title": "Развлекательный бизнес",
+        "original name": "Bravo Profiles: The Entertainment Business",
+        "year": "1998, документальный"
+    }, {
+        "id": 56,
+        "title": "Для Лео с любовью",
+        "original name": "To Leo with Love",
+        "year": "1998, документальный"
+    }, {
+        "id": 57,
+        "title": "70-я церемония вручения премии «Оскар»",
+        "original name": "The 70th Annual Academy Awards",
+        "year": "1998, новости"
+    }, {
+        "id": 58,
+        "title": "Человек в железной маске",
+        "original name": "The Man in the Iron Mask",
+        "year": "1998, боевик, драма, приключения"
+    }, {
+        "id": 59,
+        "title": "Титаник: Абсолютно новая история",
+        "original name": "Titanic: Breaking New Ground",
+        "year": "1998, документальный"
+    }, {
+        "id": 60,
+        "title": "55-я церемония вручения премии «Золотой глобус»",
+        "original name": "The 55th Annual Golden Globe Awards",
+        "year": "1998, новости"
+    }, {
+        "id": 61,
+        "title": "Режиссеры (сериал)",
+        "original name": "The Directors",
+        "year": "1997, биографический, документальный"
+    }, {
+        "id": 62,
+        "title": "Роковые женщины: Шэрон Стоун",
+        "original name": "Femmes Fatales: Sharon Stone",
+        "year": "1998, биографический, документальный"
+    }, {
+        "id": 63,
+        "title": "Титаник",
+        "original name": "Titanic",
+        "year": "1997, драма, мелодрама",
+        "extra": "драма, мелодрама, 3 ч 14 мин",
+        "director": " США, Мексика, Австралия •  Джеймс Кэмерон  Джеймс Кэмерон"
+    }, {
+        "id": 64,
+        "title": "Комната Марвина",
+        "original name": "Marvin's Room",
+        "year": "1996, драма",
+        "extra": "драма, 1 ч 38 мин",
+        "director": " США •  Джерри Цакс  Джерри Цакс"
+    }, {
+        "id": 65,
+        "title": "Ромео + Джульетта",
+        "original name": "Romeo + Juliet",
+        "year": "1996, драма, мелодрама",
+        "extra": "драма, мелодрама, 2 часа",
+        "director": " США, Мексика, Австралия •  Баз Лурман  Баз Лурман"
+    }, {
+        "id": 66,
+        "title": "Полное затмение",
+        "original name": "Total Eclipse",
+        "year": "1995, биографический, драма, мелодрама"
+    }, {
+        "id": 67,
+        "title": "Дневник баскетболиста",
+        "original name": "The Basketball Diaries",
+        "year": "1995, биографический, драма, спорт, триллер",
+        "extra": "биография, криминал, драма, 1 ч 42 мин",
+        "director": " США •  Скотт Кэлверт  Скотт Кэлверт"
+    }, {
+        "id": 68,
+        "title": "Быстрый и мертвый",
+        "original name": "The Quick And The Dead",
+        "year": "1995, боевик, вестерн, приключения"
+    }, {
+        "id": 69,
+        "title": "66-я церемония вручения премии «Оскар»",
+        "original name": "The 66th Annual Academy Awards",
+        "year": "1994, семейный"
+    }, {
+        "id": 70,
+        "title": "Жизнь этого парня",
+        "original name": "This Boy's Life",
+        "year": "1993, биографический, драма",
+        "extra": "биография, драма, 1 ч 55 мин",
+        "director": " США •  Майкл Кейтон-Джонс  Майкл Кейтон-Джонс"
+    }, {
+        "id": 71,
+        "title": "HBO: Первый взгляд (сериал)",
+        "original name": "HBO First Look",
+        "year": "1992, документальный"
+    }, {
+        "id": 72,
+        "title": "Ядовитый плющ",
+        "original name": "Poison Ivy",
+        "year": "1992, драма, триллер"
+    }, {
+        "id": 73,
+        "title": "Зубастики 3",
+        "original name": "Critters 3",
+        "year": "1991, комедия, триллер, ужасы, фантастика"
+    }, {
+        "id": 74,
+        "title": "Родители (сериал)",
+        "original name": "Parenthood",
+        "year": "1990, драма, комедия"
+    }, {
+        "id": 75,
+        "title": "Изгои (сериал)",
+        "original name": "The Outsiders",
+        "year": "1990, драма"
+    }, {
+        "id": 76,
+        "title": "Магическое зеркало (сериал)",
+        "original name": "Troldspejlet",
+        "year": "1989, новости"
+    }, {
+        "id": 77,
+        "title": "Новые приключения Лэсси (сериал)",
+        "original name": "The New Lassie",
+        "year": "1989, приключения, семейный"
+    }, {
+        "id": 78,
+        "title": "Проблемы роста (сериал)",
+        "original name": "Growing Pains",
+        "year": "1985, комедия, семейный"
+    }, {
+        "id": 79,
+        "title": "Что гложет Гилберта Грэйпа?",
+        "original name": "What's Eating Gilbert Grape",
+        "year": "1993, драма"
+    }, {
+        "id": 80,
+        "title": "Одиннадцатый час",
+        "original name": "The 11th Hour",
+        "year": "2007, документальный"
+    }, {
+        "id": 81,
+        "title": "Акира",
+        "original name": "Akira",
+        "year": "2021, боевик, детектив, драма"
+    }, {
+        "id": 82,
+        "title": "Рузвельт",
+        "original name": "Roosevelt",
+        "year": "2020, биографический, драма, исторический"
+    }, {
+        "id": 83,
+        "title": "Дело Ричарда Джуэлла",
+        "original name": "Richard Jewell",
+        "year": "2019, драма",
+        "extra": "биография, криминал, драма, 2 ч 11 мин",
+        "director": " США •  Клинт Иствуд  Клинт Иствуд"
+    }, {
+        "id": 84,
+        "title": "Робин Гуд: Начало",
+        "original name": "Robin Hood",
+        "year": "2018, боевик, драма, приключения, триллер",
+        "extra": "боевик, приключения, драма, 1 ч 56 мин",
+        "director": " США, Гонконг, Хорватия •  Отто Батхёрст  Отто Батхёрст"
+    }, {
+        "id": 85,
+        "title": "Капитан Планета",
+        "original name": "Captain Planet",
+        "year": "2017, приключения, семейный"
+    }, {
+        "id": 86,
+        "title": "Закон ночи",
+        "original name": "Live by Night",
+        "year": "2016, драма, триллер",
+        "extra": "боевик, криминал, драма, 2 ч 9 мин",
+        "director": " США •  Бен Аффлек  Бен Аффлек"
+    }, {
+        "id": 87,
+        "title": "Истерия",
+        "original name": "Delirium",
+        "year": "2018, триллер, ужасы"
+    }, {
+        "id": 88,
+        "title": "До потопа",
+        "original name": "Before the Flood",
+        "year": "2016, документальный"
+    }, {
+        "id": 89,
+        "title": "Волк с Уолл-Стрит",
+        "original name": "The Wolf of Wall Street",
+        "year": "2013, биографический, драма, триллер"
+    }, {
+        "id": 90,
+        "title": "Из пекла",
+        "original name": "Out of the Furnace",
+        "year": "2013, боевик, драма, триллер",
+        "extra": "боевик, криминал, драма, 1 ч 56 мин",
+        "director": " США, Великобритания •  Скотт Купер  Скотт Купер"
+    }, {
+        "id": 91,
+        "title": "Va-банк",
+        "original name": "Runner Runner",
+        "year": "2013, триллер",
+        "extra": "криминал, триллер, 1 ч 28 мин",
+        "director": " США •  Брэд Фурман  Брэд Фурман"
+    }, {
+        "id": 92,
+        "title": "Красная Шапочка",
+        "original name": "Red Riding Hood",
+        "year": "2011, детектив, триллер, ужасы, фэнтези",
+        "extra": "ужасы, фэнтези, детектив, 1 ч 36 мин",
+        "director": " США, Канада •  Кэтрин Хардвик  Кэтрин Хардвик"
+    }, {
+        "id": 93,
+        "title": "Дитя Тьмы",
+        "original name": "Orphan",
+        "year": "2009, детектив, триллер, ужасы"
+    }, {
+        "id": 94,
+        "title": "Одиннадцатый час",
+        "original name": "The 11th Hour",
+        "year": "2007, документальный"
+    }, {
+        "id": 95,
+        "title": "Садовник Эдема",
+        "original name": "Gardener of Eden",
+        "year": "2007, драма, комедия"
+    }, {
+        "id": 96,
+        "title": "Sea of Shadows",
+        "original name": "Sea of Shadows",
+        "year": "2019, документальный, исторический, триллер"
+    }, {
+        "id": 97,
+        "title": "До потопа",
+        "original name": "Before the Flood",
+        "year": "2016, документальный"
+    }, {
+        "id": 98,
+        "title": "Мартовские иды",
+        "original name": "The Ides of March",
+        "year": "2011, драма, триллер",
+        "extra": "драма, триллер, 1 ч 41 мин",
+        "director": " США •  Джордж Клуни  Джордж Клуни"
+    }, {
+        "id": 99,
+        "title": "Авиатор",
+        "original name": "The Aviator",
+        "year": "2004, биографический, драма",
+        "extra": "биография, драма, 2 ч 43 мин",
+        "director": " США, Германия •  Мартин Скорсезе  Мартин Скорсезе"
+    }],
+    "имя при рождении": "Leonardo Wilhelm DiCaprio",
+    " место рождения ": " Голливуд, Лос-Анджелес, Калифорния, США ",
+    " гражданство ": "США",
+    "карьера": "1979 — ...",
+    "жанры": "драма, триллер, криминал",
+    "rewards": [{
+        "Оскар": " 1 награда   7 номинаций "
+    }, {
+        "Золотой глобус": " 3 награды   12 номинаций "
+    }, {
+        "Берлинский кинофестиваль": " 1 награда "
+    }, {
+        "Британская академия": " 1 награда   5 номинаций "
+    }, {
+        "Эмми": "  1 номинация "
+    }]
+}
